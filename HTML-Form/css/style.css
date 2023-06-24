@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    
+    height: 100%;
+}
+
+.main{
+    background-color: rgb(211, 18, 18);
+    /* display: flex; */
+}
+img{
+    width: 100px;
+    height: 100px;
+    padding: 35px 0 0 35px;
+}
+form{
+    background-color: rgb(146, 11, 11);
+    color: white;
+    padding: 45px 90px 35px;
+    margin-bottom: 99px;
+}
+
+.name {
+    padding-right: 63px;
+}
+
+.email {
+    padding-right: 63px;
+}
+
+.pass {
+    padding-right: 40px;
+}
+
+.pn {
+    padding-right: 5px;
+}
+
+.gen {
+    padding-right: 60px;
+}
+
+#gen1 {
+
+    margin-right: 10px;
+}
+
+#gen2 {
+
+    margin-right: 10px;
+}
+
+#gen3 {
+
+    margin-right: 10px;
+}
+
+.loc {
+    padding-right: 45px;
+}
+
+.zc {
+    padding-right: 45px;
+}
+
+.ab {
+    padding-right: 66px;
+}
+
+.textarea {
+    display: flex;
+}
+
+#name {
+    width: 210px;
+    padding-left: 6px;
+}
+
+#email {
+    width: 210px;
+    padding-left: 6px;
+}
+
+#pass {
+    width: 210px;
+    padding-left: 6px;
+}
+
+#pn {
+    width: 210px;
+    padding-left: 6px;
+}
+
+
+#loc {
+    width: 210px;
+}
+
+#zc {
+    width: 210px;
+}
+
+#ab {
+    width: 210px;
+    padding-left: 6px;
+}
+
+button{
+    width: 330px;
+    height: 30px;
+}
